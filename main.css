@@ -1,0 +1,33 @@
+.main-header {
+    display: flex;
+    align-items: center;
+    font: arial;
+}
+
+
+.lead {
+    font-weight: bold;
+    font-size: 1.1rem;
+    font-style: italic;
+}
+
+h2 {
+    margin: 10px;
+    padding: 20px;
+    border: 3px solid midnightblue;
+    margin: 10px
+}
+
+li {
+    color: darkblue;
+    background: mediumaquamarine; 
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif
+}
+
+.news-pic {
+    height: 200px
+
+}
